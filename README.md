@@ -2,8 +2,8 @@
 Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
 
 ## Live links (replace with your own)
-- Leaflet Map https://datameet-pune.github.io/live-crop-map/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1fxxPLbFHj3Id8JYz9lDAqnb_h9bFUYRpYccxQN5w7PQ/edit#gid=0
+- Leaflet Map https://manishmarahatta.github.io/live-crop-map/
+- Google Sheets template https://docs.google.com/spreadsheets/d/1zkh5k_JgAdJg9yDT4RX1MjvGaOddIiy-BSL786S3U6c/edit#gid=0
 
 ## Create your own
 - See video with step-by-step tutorial in *Data Visualization for All* http://www.datavizforall.org/leaflet/with-google-sheets/
